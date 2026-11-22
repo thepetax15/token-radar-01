@@ -1,8 +1,8 @@
 # Token Radar
 
-[![make.fun](https://make.fun/api/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
-[![rank](https://make.fun/api/badge/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01)
-[![reward](https://make.fun/api/badge/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01)
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/thepetax15/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/thepetax15/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
 
 A token launch radar: pre-token protocols ranked by expected implied value,
 with a costed farm plan for each one. Built for the
@@ -10,7 +10,7 @@ with a costed farm plan for each one. Built for the
 
 ## The model
 
-Every term is fitted from the sealed snapshot's own 144 live-token
+Every term is fitted from the sealed snapshot's own 128 live-token
 protocols — no protocol name is ever special-cased:
 
 - **Comps multiple**: the median market-cap/TVL of live-token protocols
